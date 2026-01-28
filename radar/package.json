@@ -12,7 +12,7 @@
         "express": "^5.1.0",
         "tsx": "^4.20.4",
         "uuid": "^11.1.0",
-        "ws": "^8.18.3"
+        "ws": "^8.19.0"
     },
     "devDependencies": {
         "@types/express": "^5.0.3",
